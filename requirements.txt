@@ -2,3 +2,4 @@ Flask
 requests
 g4f
 curl_cffi
+gunicorn
